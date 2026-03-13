@@ -1,0 +1,31 @@
+{
+  "projects":[
+    {
+      "id":"proj_001",
+      "name":"Nhà Cấp 4",
+      "style":"Hiện Đại",
+      "location":"TPHCM",
+
+      "land":{
+        "width":5,
+        "length":20
+      },
+
+      "floors":1,
+
+      "rooms":{
+        "bedrooms":2,
+        "wc":1
+      },
+
+      "spaces":{
+        "living_room":true,
+        "altar_position":"living_room"
+      },
+
+      "budget":2500000000,
+
+      "detail_url":"/projects/proj_001.json"
+    }
+  ]
+}
