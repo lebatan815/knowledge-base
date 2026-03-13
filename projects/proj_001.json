@@ -1,0 +1,25 @@
+{
+  "project":{
+    "id":"proj_001",
+    "name":"Nhà Cấp 4",
+
+    "design_rules":{
+      "color_scheme":[
+        "#ffffff",
+        "#f5f5f5",
+        "#333333"
+      ],
+      "materials":[
+        "sơn trắng",
+        "gạch xám",
+        "gỗ tự nhiên"
+      ]
+    },
+
+    "architectural_rules":{
+      "floor_height":3.2,
+      "stair_rise":17,
+      "stair_tread":28
+    }
+  }
+}
